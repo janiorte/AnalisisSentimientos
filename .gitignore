@@ -1,0 +1,8 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/bin/Data/__MACOSX
+/bin/Debug/netcoreapp3.1
+/obj
